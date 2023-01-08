@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+.timer {
+  background-color: rgb(19, 18, 59);
+}
+
+nav {
+  height: 60px;
+  background-color: rgb(18, 59, 58);
+  align-items: center;
+  display: flex;
+  box-shadow: 0px 2.98256px 7.4564px rgba(225, 209, 209, 0.1);
+  color: black;
+}
+
+.logo {
+  margin-left: 10px;
+  margin-right: 3px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.logo-name {
+  color: aliceblue;
+  font-family: "Ubuntu";
+}
+
+.unordered {
+  display: flex;
+  margin-left: 350px;
+}
+
+.list {
+  margin-right: 20px;
+  margin-left: 45px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Ubuntu";
+  color: aliceblue;
+}
